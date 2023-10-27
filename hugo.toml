@@ -2,11 +2,10 @@ baseURL = '/'
 languageCode = 'zh-CN'
 title = '荒原冒险资源库'
 theme = "paper"
-comments = false                            # disable comments for a specific page
 math = true                                 # enable KaTeX math typesetting for a specific page
 
 
-disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
+disqusShortname = 'Whyya'   # use disqus comments
 
 [params]
   # color style
