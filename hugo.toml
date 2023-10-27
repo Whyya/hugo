@@ -4,8 +4,6 @@ title = '荒原冒险资源库'
 theme = "paper"
 
 
-disqusShortname = 'Whyya'   # use disqus comments
-
 [params]
   # color style
   color = 'linen'                           # linen, wheat, gray, light
