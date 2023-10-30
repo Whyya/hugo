@@ -13,7 +13,7 @@ theme = "paper"
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'whyya@me.com'                 # gravatar email or image url
+  avatar = 'https://whyya-1254698311.cos.ap-shanghai.myqcloud.com/%E9%99%84%E4%BB%B6/FhV5-V_IBcJRwoqaPQ2uTPWJiYsKv2.jpg'                 # gravatar email or image url
   name = 'Whyya'
   bio = '人间五十年'
 
