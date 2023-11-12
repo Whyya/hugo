@@ -26,3 +26,7 @@ theme = "paper"
   graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
   math = true                               # enable KaTeX math typesetting globally
   comments = false                          # disable comments for a specific page
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
